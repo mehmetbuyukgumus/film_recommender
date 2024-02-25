@@ -20,3 +20,4 @@ tzdata==2023.4
 urllib3==2.1.0
 webencodings==0.5.1
 xyzservices==2023.10.1
+scikit-learn
